@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace nwn_area_procgen
+namespace NWN.Area.ProcGen.Shared
 {
     public class Class1
     {

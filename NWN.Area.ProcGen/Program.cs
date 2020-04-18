@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TestingApp
+namespace NWN.Area.ProcGen
 {
     class Program
     {
